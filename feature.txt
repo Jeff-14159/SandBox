@@ -1,5 +1,9 @@
 feature 1
 
 
+<<<<<<< HEAD
 
 test 2
+=======
+test 
+>>>>>>> origin/bluetooth
